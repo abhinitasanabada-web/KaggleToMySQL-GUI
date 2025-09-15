@@ -1,6 +1,6 @@
 # KaggleToMySQL-GUI
 Description: A Python app to clean CSV data, create a MySQL database with stored procedures, and interact with the data using a PyQt5 GUI.
-his project showcases the complete workflow of a data-driven application that starts from data extraction, cleaning, database design and management, and GUI-based interaction. The data source is a CSV file from Kaggle, which is processed using Python, stored in a MySQL relational database, and interacted with via a PyQt5-based user interface.
+The project showcases the complete workflow of a data-driven application that starts from data extraction, cleaning, database design and management, and GUI-based interaction. The data source is a CSV file from Kaggle, which is processed using Python, stored in a MySQL relational database, and interacted with via a PyQt5-based user interface.
 
 
 
